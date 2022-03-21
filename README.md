@@ -13,3 +13,6 @@ Annulized mean returns & standard deviations have been calculated to eventually 
 
 ### Correlation Matrix
 ![Correlation](https://github.com/ritwikthakar/04_Pandas_Assignment-/blob/main/Images/correlation_matrix.png?raw=true)
+
+### Sharpe Ratio Results
+![Sharpe Ratio](![image](https://user-images.githubusercontent.com/80002638/159197244-1e165f0f-95d6-4103-941f-87c61d59c7b1.png)
